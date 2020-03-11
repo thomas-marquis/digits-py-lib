@@ -1,2 +1,19 @@
-# digits-py-lib
-exporte les chiffres de 1 à 10
+# digits py lib
+
+A useful library !
+
+## installation
+
+````shell script
+pip install digits-py-lib
+````
+
+## usage
+
+````python
+from digits import digits
+
+digits.one
+digits.two
+# ...
+````
