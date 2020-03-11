@@ -13,7 +13,7 @@ pip install digits-py-lib
 ````python
 from digits import digits
 
-digits.one
-digits.two
+assert digits.one == 1
+assert digits.two == 2
 # ...
 ````

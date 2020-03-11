@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "digits-py-lib"
-version = "1.0.1"
+version = "1.0.2"
 license = "MIT"
 description = "export ten first numbers"
 authors = ["thomas-marquis <thomas.marquis314@gmail.com>"]
