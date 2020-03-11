@@ -1,6 +1,6 @@
 # digits py lib
 
-A useful library !
+An useful library !
 
 ## installation
 
